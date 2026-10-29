@@ -1,4 +1,0 @@
-pandas
-openai
-streamlit
-matplotlib
